@@ -1,3 +1,8 @@
+2017-01-17, Version 3.1.1
+=========================
+
+ * Fixed redirect flash with accesstoken for local
+
 2017-01-17, Version 3.1.0
 =========================
 
